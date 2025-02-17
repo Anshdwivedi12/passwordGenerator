@@ -2,7 +2,7 @@
 
 A simple and efficient **Password Generator** built using **React.js**, **Tailwind CSS**, and **Vite**. This application allows users to generate secure passwords by specifying the desired length and selecting whether to include special characters and numbers.
 
-![🔑 Password Generator Screenshot](./public/Pass-Gen.png)
+
 
 ## ✨ Features
 - 🔢 Set the desired length of the password
